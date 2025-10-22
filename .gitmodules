@@ -1,0 +1,11 @@
+[submodule "admin"]
+	path = admin
+	url = https://github.com/mandaladignite/enlivesalon-admin.git
+
+[submodule "customer"]
+	path = customer
+	url = https://github.com/mandaladignite/enlivesalon-customer.git
+
+[submodule "backend"]
+	path = backend
+	url = https://github.com/mandaladignite/enlivesalon-backend.git
